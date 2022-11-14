@@ -91,18 +91,18 @@ If you want to see those raw instructions that go into making a website, you can
     - This can also be accomplished by right-clicking on a page and selecting "Inspect."
 
     <p align="left">
-        <img src="./inspector.png" width="600" >
+        <img src="./inspector.png" width="800" >
     </p>
 
     - (Or you can learn the [shortcut](https://www.codeleaks.io/shortcut-inspect-element-browsers/) for your browser + operating system of choice.)
 - [ ] Behold. More information than you ever wanted to know.
     <p align="left">
-        <img src="./inspected.png" width="600" >
+        <img src="./inspected.png" width="800" >
     </p>
 
 You can even play around with the inspector to change things about your website. This is a tool that every frontend dev uses for testing, experimentation, and spreading misinformation.
 <p align="left" style="border:solid;width:fit-content;">
-    <img src="./turtles.png" width="500" >
+    <img src="./turtles.png" width="700" >
 </p>
 
 ### HTML is pretty simple
