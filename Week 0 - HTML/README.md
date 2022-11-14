@@ -1,7 +1,7 @@
 # WEEK 0 - HTML
 
 - [WEEK 0 - HTML](#week-0---html)
-  - [A kinda bootleg introduction to HTML](#a-kinda-bootleg-introduction-to-html)
+  - [A bootleg introduction to HTML](#a-bootleg-introduction-to-html)
     - [Hey Mozilla Foundation, what's HTML?](#hey-mozilla-foundation-whats-html)
     - [Let's look at an example](#lets-look-at-an-example)
         - [Exhibit 0.1](#exhibit-01)
@@ -13,7 +13,7 @@
   - [Homewerk](#homewerk)
     - [MORE??](#more)
 
-## A kinda bootleg introduction to HTML
+## A bootleg introduction to HTML
 
 You will begin your coding journey the same way I did. On Codecademy. It's free. It's fun. It's the best bang for your buck for learning coding stuff. And lessons can be done in itty bitty chunks of time if you need to.
 
