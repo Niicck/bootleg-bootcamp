@@ -61,7 +61,7 @@ But your internet browser is super smart. So it doesn't just show you that plain
 
 ##### Exhibit 0.2
 <p align="left">
-  <img src="./examplecom.png" width="300" >
+  <img src="./examplecom.png" width="600" >
 </p>
 
 But at the end of the day, all that's getting sent to the browser from example.com's server is like a kilobyte of plaintext data.
@@ -91,18 +91,18 @@ If you want to see those raw instructions that go into making a website, you can
     - This can also be accomplished by right-clicking on a page and selecting "Inspect."
 
     <p align="left">
-        <img src="./inspector.png" width="300" >
+        <img src="./inspector.png" width="600" >
     </p>
 
     - (Or you can learn the [shortcut](https://www.codeleaks.io/shortcut-inspect-element-browsers/) for your browser + operating system of choice.)
 - [ ] Behold. More information than you ever wanted to know.
     <p align="left">
-        <img src="./inspected.png" width="300" >
+        <img src="./inspected.png" width="600" >
     </p>
 
 You can even play around with the inspector to change things about your website. This is a tool that every frontend dev uses for testing, experimentation, and spreading misinformation.
-<p align="left">
-    <img src="./turtles.png" width="300" >
+<p align="left" style="border:solid;width:fit-content;">
+    <img src="./turtles.png" width="500" >
 </p>
 
 ### HTML is pretty simple
