@@ -1,6 +1,6 @@
-# WELCOME TO HELL, MAGGOT
+# Welcome to Bootleg Bootcamp
 
-Greetings, Tim Hu. Welcome to your very own, personal, tailored, one-of-a-kind coding bootcamp experience.
+Greetings, Tim. Welcome to your very own, personal, tailored, one-of-a-kind coding bootcamp experience.
 
 ## Let's set an intention for the Universe
 
