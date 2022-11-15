@@ -23,7 +23,7 @@ Our journey begins with **HTML**, "the building block of the Web":tm:. Once we u
 - make it pretty with **CSS**
 - make it interactive with **JavaScript**
 - make it process data from forms with **Python** on the backend
--  unify our HTML, CSS, and JavaScript and do it all in **React**
+- unify our HTML, CSS, and JavaScript and do it all in **React**
 - fire all our developers and switch to a [no-code](https://www.superblocks.com/) solution
 
 ### Hey Mozilla Foundation, what's HTML?
@@ -128,9 +128,9 @@ The catch is that HTML ([for the most part](https://html.com/html5/#What_is_HTML
 
 So, do you need to learn JavaScript in order to make a web application? Maybe. Probably. But not necessarily. Before jumping into the deep end of a huge React application, let's walk through a progression of some simpler sites to see what benefits JavaScript can bring to the table.
 
-You can certainly make a website using HTML alone, no JavaScript required. Here's an example of website that drives that point home: https://motherfuckingwebsite.com/
+You can certainly make a website using HTML alone, no JavaScript required. Here's an example of a website that drives that point home: https://motherfuckingwebsite.com/
 
-Paul Graham (programmer/venture capitalist/tech influencer extrordinaire) has a [personal website](http://www.paulgraham.com/articles.html) that takes it just a couple small steps further. He has some minimal CSS styling and color. There are a couple images. All this can all be accomplished without any JavaScript.
+Paul Graham (programmer/venture capitalist/tech influencer extraordinaire) has a [personal website](http://www.paulgraham.com/articles.html) that takes it just a step further. He has some minimal CSS styling and color. There are a couple images. All this can all be accomplished without any JavaScript.
 
 Now go onto [SquareSpace](https://www.squarespace.com/) and start scrolling. Whoa! Look at all those things popping in and out and flying around! So neat! So trendy! Most of that fancy dynamic stuff was accomplished thanks to JavaScript. (Nowadays some of that fancy stuff can be accomplished with advanced HTML5 and CSS3, but in general moving elements and interactivity and calculations are handled by JavaScript.)
 
