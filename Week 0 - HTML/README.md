@@ -9,7 +9,7 @@
         - [Fun Activity 0.1](#fun-activity-01)
         - [Fun Activity 0.2](#fun-activity-02)
     - [HTML is pretty simple](#html-is-pretty-simple)
-    - [Some milestones in the evolution of web development](#some-milestones-in-the-evolution-of-web-development)
+    - [Some stages in the evolution of web development](#some-stages-in-the-evolution-of-web-development)
   - [Homewerk](#homewerk)
     - [MORE??](#more)
 
@@ -124,7 +124,7 @@ So then what's so hard about web development?
 
 The catch is that HTML ([for the most part](https://html.com/html5/#What_is_HTML5)) is totally static. It can't change once it's been loaded on a page. There's no interactivity.
 
-### Some milestones in the evolution of web development
+### Some stages in the evolution of web development
 
 So, do you need to learn JavaScript in order to make a web application? Maybe. Probably. But not necessarily. Before jumping into the deep end of a huge React application, let's walk through a progression of some simpler sites to see what benefits JavaScript can bring to the table.
 
