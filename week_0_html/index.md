@@ -1,17 +1,16 @@
 # WEEK 0 - HTML
 
-- [WEEK 0 - HTML](#week-0---html)
-  - [A bootleg introduction to HTML](#a-bootleg-introduction-to-html)
-    - [Hey Mozilla Foundation, what's HTML?](#hey-mozilla-foundation-whats-html)
-    - [Let's look at an example](#lets-look-at-an-example)
-        - [Exhibit 0.1](#exhibit-01)
-        - [Exhibit 0.2](#exhibit-02)
-        - [Fun Activity 0.1](#fun-activity-01)
-        - [Fun Activity 0.2](#fun-activity-02)
-    - [HTML is pretty simple](#html-is-pretty-simple)
-    - [Some stages in the evolution of web development](#some-stages-in-the-evolution-of-web-development)
-  - [Homewerk](#homewerk)
-    - [MORE??](#more)
+- [A bootleg introduction to HTML](#a-bootleg-introduction-to-html)
+  - [Hey Mozilla Foundation, what's HTML?](#hey-mozilla-foundation-whats-html)
+  - [Let's look at an example](#lets-look-at-an-example)
+      - [Exhibit 0.1](#exhibit-01)
+      - [Exhibit 0.2](#exhibit-02)
+      - [Fun Activity 0.1](#fun-activity-01)
+      - [Fun Activity 0.2](#fun-activity-02)
+  - [HTML is pretty simple](#html-is-pretty-simple)
+  - [Some stages in the evolution of web development](#some-stages-in-the-evolution-of-web-development)
+- [Homewerk](#homewerk)
+  - [MORE??](#more)
 
 ## A bootleg introduction to HTML
 
@@ -36,7 +35,7 @@ Our journey begins with **HTML**, "the building block of the Web":tm:. Once we u
 >
 >An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">". The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the `<title>` tag can be written as `<Title>`, `<TITLE>`, or in any other way. However, the convention and recommended practice is to write tags in lowercase.
 
-*Source: https://developer.mozilla.org/en-US/docs/Web/HTML*
+*Source: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)*
 
 Cool. Thanks.
 
@@ -73,7 +72,7 @@ Don't believe me? See for yourself!!!!!
 ##### Fun Activity 0.1
 - [ ] Open up your **Terminal** application
     - I'm not sure if you've used the command line before. If you haven't, you're in for a treat. Get ready to get all Mr. Robot with it.
-    - I don't know how Terminal works on Windows. Here, look at this. https://www.lifewire.com/how-to-open-command-prompt-2618089
+    - I don't know how Terminal works on Windows. Here, look at this. [https://www.lifewire.com/how-to-open-command-prompt-2618089](https://www.lifewire.com/how-to-open-command-prompt-2618089)
 - [ ] type in `curl example.com`
     - (and then press `Enter` on your keyboard)
 
@@ -128,13 +127,13 @@ The catch is that HTML ([for the most part](https://html.com/html5/#What_is_HTML
 
 So, do you need to learn JavaScript in order to make a web application? Maybe. Probably. But not necessarily. Before jumping into the deep end of a huge React application, let's walk through a progression of some simpler sites to see what benefits JavaScript can bring to the table.
 
-You can certainly make a website using HTML alone, no JavaScript required. Here's an example of a website that drives that point home: https://motherfuckingwebsite.com/
+You can certainly make a website using HTML alone, no JavaScript required. Here's an example of a website that drives that point home: [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/)
 
 Paul Graham (programmer/venture capitalist/tech influencer extraordinaire) has a [personal website](http://www.paulgraham.com/articles.html) that takes it just a step further. He has some minimal CSS styling and color. There are a couple images. All this can all be accomplished without any JavaScript.
 
 Now go onto [SquareSpace](https://www.squarespace.com/) and start scrolling. Whoa! Look at all those things popping in and out and flying around! So neat! So trendy! Most of that fancy dynamic stuff was accomplished thanks to JavaScript. (Nowadays some of that fancy stuff can be accomplished with advanced HTML5 and CSS3, but in general moving elements and interactivity and calculations are handled by JavaScript.)
 
-But there are other uses for JavaScript that may be more pertinent to your web app needs. Try going to https://www.airbnb.com and searching for a rental in `Hot Springs, Arkansas`. Pay special attention to each step along the way. There are a ton of tiny micro-interactions that you may not have appreciated before. Things to click, settings to adjust, new DOM elements getting loaded in. This is a serious JavaScript application.
+But there are other uses for JavaScript that may be more pertinent to your web app needs. Try going to [https://www.airbnb.com](https://www.airbnb.com) and searching for a rental in `Hot Springs, Arkansas`. Pay special attention to each step along the way. There are a ton of tiny micro-interactions that you may not have appreciated before. Things to click, settings to adjust, new DOM elements getting loaded in. This is a serious JavaScript application.
 
 However, your fishing web application may not even need JavaScript. [You can make web forms and display submission results using HTML alone](https://www.w3schools.com/html/html_forms.asp).
 
@@ -145,23 +144,23 @@ A good way to approach software development (and continuing software development
 Take as much time as you need. Doing this Codecademy course is pretty much a prerequisite to doing anything else web dev related.
 
 - [ ] Learn HTML
-    - https://www.codecademy.com/learn/learn-html
-- [ ] Sign up for github (if you haven't already)
+    - [https://www.codecademy.com/learn/learn-html](https://www.codecademy.com/learn/learn-html)
+- [ ] Sign up for [github](https://github.com/) (if you haven't already)
 
 ### MORE??
 
 The next thing I'm going to have you learn is Python. Probably. If you finish your HTML course before we meet again, you can get started on your next homework assignment.
 
 - [ ] Learn Python 3
-    - https://www.codecademy.com/learn/learn-python-3
+    - [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
 
-*(FYI, it's not "Learn Python" + "3", it's "Learn" + "Python 3". It's Python v3. As opposed to Python v2. The update from v2 to v3 had major breaking changes in the core Python language a few years ago. Yeah. Let's not worry about that. https://xkcd.com/1987/)*
+*(FYI, it's not "Learn Python" + "3", it's "Learn" + "Python 3". It's Python v3. As opposed to Python v2. The update from v2 to v3 had major breaking changes in the core Python language a few years ago. Yeah. Let's not worry about that. [https://xkcd.com/1987/](https://xkcd.com/1987/))*
 
 And yeah, you'll be learning Python for backend, not Javascript. Python is where you want to start. It's simpler, it's clearer, it's more transferable. When you understand Python, you'll understand how every other OOL (Object-Oriented Language) works (GO, Java, Python, Ruby, JavaScript, COBOL, etc.).
 
 Alternatively, if you want to continue on the frontend path and learn how to make your website pretty, you can learn CSS. For the sake of time, I'm on the fence about how much I want you to learn this. We can discuss next week.
 
 - [ ] Learn CSS
-    - https://www.codecademy.com/learn/learn-css
+    - [https://www.codecademy.com/learn/learn-css](https://www.codecademy.com/learn/learn-css)
 
 At some point we'll also fit in an introduction to git.
