@@ -18,7 +18,7 @@ You will begin your coding journey the same way I did. On Codecademy. It's free.
 
 I've assigned you just the HTML course to start (see: [Homewerk](#homewerk)).
 
-Our journey begins with **HTML**, "the building block of the Web":tm:. Once we understand how to build a website with HTML we can then:
+Our journey begins with **HTML**, "the building block of the Web"™. Once we understand how to build a website with HTML we can then:
 - make it pretty with **CSS**
 - make it interactive with **JavaScript**
 - make it process data from forms with **Python** on the backend
