@@ -12,4 +12,4 @@ The goal of this journey will be ~~two~~ threefold.
 
 ## LETTUCE BEGIN
 
-1. [Week 0 - HTML](./Week%200%20-%20HTML/README.md)
+1. [Week 0 - HTML](./week_0_html/index.md)
